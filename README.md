@@ -10,5 +10,6 @@ Ethanol is an **HTML5 CSS3 Free responsive bootstrap website Template** designed
 * Flat Design
 * Modern Design
 * cross-browser support
+* images gallery
 
 Enjoy it! :D
